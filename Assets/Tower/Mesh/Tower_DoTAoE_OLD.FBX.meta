@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 721a31d7d24ef034ba9b730d6f75b953
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Base_AoEDoT
+    100002: Body_AoEDoT
+    100004: Muzzle Position1
+    100006: Muzzle Position10
+    100008: Muzzle Position2
+    100010: Muzzle Position3
+    100012: Muzzle Position4
+    100014: Muzzle Position5
+    100016: Muzzle Position6
+    100018: Muzzle Position7
+    100020: Muzzle Position8
+    100022: Muzzle Position9
+    100024: //RootNode
+    400000: Base_AoEDoT
+    400002: Body_AoEDoT
+    400004: Muzzle Position1
+    400006: Muzzle Position10
+    400008: Muzzle Position2
+    400010: Muzzle Position3
+    400012: Muzzle Position4
+    400014: Muzzle Position5
+    400016: Muzzle Position6
+    400018: Muzzle Position7
+    400020: Muzzle Position8
+    400022: Muzzle Position9
+    400024: //RootNode
+    2300000: Base_AoEDoT
+    2300002: Body_AoEDoT
+    2300004: Muzzle Position1
+    2300006: Muzzle Position10
+    2300008: Muzzle Position2
+    2300010: Muzzle Position3
+    2300012: Muzzle Position4
+    2300014: Muzzle Position5
+    2300016: Muzzle Position6
+    2300018: Muzzle Position7
+    2300020: Muzzle Position8
+    2300022: Muzzle Position9
+    3300000: Base_AoEDoT
+    3300002: Body_AoEDoT
+    3300004: Muzzle Position1
+    3300006: Muzzle Position10
+    3300008: Muzzle Position2
+    3300010: Muzzle Position3
+    3300012: Muzzle Position4
+    3300014: Muzzle Position5
+    3300016: Muzzle Position6
+    3300018: Muzzle Position7
+    3300020: Muzzle Position8
+    3300022: Muzzle Position9
+    4300000: Body_AoEDoT
+    4300002: Muzzle Position6
+    4300004: Muzzle Position8
+    4300006: Muzzle Position2
+    4300008: Muzzle Position1
+    4300010: Muzzle Position3
+    4300012: Muzzle Position5
+    4300014: Muzzle Position9
+    4300016: Muzzle Position10
+    4300018: Muzzle Position7
+    4300020: Muzzle Position4
+    4300022: Base_AoEDoT
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

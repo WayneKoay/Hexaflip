@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 008916a5240c57446a0953596319457e
+timeCreated: 18446744011573954816
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mFootprint: {fileID: 100000, guid: ee46b0bfb9c05d34f85b731b375c0307, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
